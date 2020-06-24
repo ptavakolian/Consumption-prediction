@@ -4,6 +4,8 @@ Predicting consumption using part build and performance parameters is the goal h
 Finding the most effective parameters on consumption is the second goal in this project
 You can find the code here: https://github.com/ptavakolian/Consumption-prediction/blob/master/Code_predicting%20consumption.ipynb
 
+All the procedure is explained in the code.
+
 
 ## Report
 
